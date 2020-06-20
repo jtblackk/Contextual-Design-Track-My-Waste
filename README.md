@@ -1,4 +1,6 @@
 # Contextual Design: Track My Waste
+Track My Waste is an app that nudges users into living more sustainable lifestyles, on the individual level and the community level.
+
 In this folder are all of the documents that came out of the contextual design process for the app. Mostly just reports of user research, brainstorming sessions, and design sessions.
 
 The first document covers the process of analyzing the current market. We looked for similar application ideas to Track My Waste -- analysis focused on the usability of similar applications to our idea of Track My Waste. We conducted and documented interviews with target demographics to build up a cohesive picture of our users' lives--analysis focused on building up a solid understanding of the context for which we were building the application.
