@@ -7,7 +7,7 @@ The first document covers the process of analyzing the current market. We looked
 
 The second document reports the process of ideation for Track My Waste--moving from models of people's lives to a vision of the tasks that our end-product hopes to support, product concepts that support the visioned tasks, and fictitious personas and scenarios that entail the use of our end-product. All of the models that resulted from ideation are presented and discussed in this document.
 
-The Third document covers the process of interaction analysis and design. We created storyboards, GTNs(Generalized Transition Networks), and wireframes to aid in the process of moving from user research and design conceptualization to planning out and wireframing a full application, and they are all included in the document.
+The third document covers the process of interaction analysis and design. We created storyboards, GTNs(Generalized Transition Networks), and wireframes to aid in the process of moving from user research and design conceptualization to planning out and wireframing a full application, and they are all included in the document.
 
 The fourth Document just documents the process I went through for critiquing some of my peers' design for an app. It's primarily a collection of Usability Aspect Reports that provide critiques of application usability guided by Nielson's usability heuristics. All of the UARs are included in the document.
 
